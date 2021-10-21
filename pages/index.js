@@ -11,7 +11,7 @@ export default function Home() {
 
             <main className={styles.main}>
                 <a href="/api/power?ranktype=1&worldgroupid=2&worldid=101&classtype=&searchname=">
-                    Click here to read more
+                    API
                 </a>
             </main>
         </div>
